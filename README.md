@@ -1,2 +1,2 @@
-# C-NamespaceExercise
+# C++NamespaceExercise
 fiddling with namespaces
